@@ -51,10 +51,12 @@ The four basic principles founded by this UNEP FI (Principles for Sustainable In
 
 New York (United States) and Athens (Greece) were analyzed with the insurance model to serve as regional benchmarks. These cities were chosen because they currently incorporate sustainable insurance principles into their city property insurance plans. The proposed initiatives in the model were specifically aimed at improving each city’s overall SPII score. Initially, both cities scored well, with SPII scores of 352.18 for New York and 312.17 for Athens, indicating strong foundations in sustainable property insurance development.
 
-<div style="text-align: center;">
-    <img src="./assets/Sustainable Insurance Index Model.png" alt="Sustainable Insurance Index Model" width="600px">
-    <p><em>Fig 1. Sustainable Insurance Index Model</em></p>
-</div>
+
+
+<p align="center">
+ <img src="./assets/Sustainable Insurance Index Model.png" alt="Sustainable Insurance Index Model" width="600px"/>
+</p>
+<h4 align="center">Fig 1. Sustainable Insurance Index Model</h4>
 
 
 
@@ -63,9 +65,7 @@ This model generates a total score for the **Sustainable Property Insurance Inde
 
 $$
 \begin{split}
-\text{SPII} =\ & \text{Financial and Pricing + Policy Support + Customer Engagement Risk } -
-\\ & \text{Geographic Climate Resilience + Renters' Preference +  Investor Intention}  
-\\ & +  \text{Natural Disasters}    
+\text{SPII} =\ & \text{Financial and Pricing + Policy Support + Customer Engagement Risk} -\text{Geographic Climate Resilience + Renters' Preference +  Investor Intention + Natural Disasters}    
 \end{split}
 $$
 
@@ -81,9 +81,11 @@ Our model aids in assessing real estate building decisions by providing a compre
 We propose a Historical Preservation Index (HPI) model that aims to evaluate and enhance the conservation efforts of urban historic buildings. The model considers various dimensions, including value assessment, risk evaluation, prioritization, cost-benefit analysis, and multi-objective optimization. It provides a systematic framework to support community leaders and stakeholders in making informed decisions about preserving cultural heritage while considering economic and social impacts.
 
 <p align="center">
-    <img src="./assets/Historical Preservation Index Model.png" alt="Historical Preservation Index Model" width="600px">
-    <em>Fig 2. Historical Preservation Index Model</em>
+ <img src="./assets/Historical Preservation Index Model.png" alt="Historical Preservation Index Model" width="600px"/>
 </p>
+<h4 align="center">Fig 2. Historical Preservation Index Model</h4>
+
+
 
 By grouping **Principles for Sustainable Insurance** together, **four metrics can be created**: cultural value, economic contribution, vulnerability assessment, and protection cost. For the remainder of this report these metrics will be referred to as: ***Cultural Value, Economic Value, Vulnerability Cost, Protection Cost***. The four principles of Sustainable Insurance were categorized into four metrics which were used to determine how urgent a city is needed for historic preservation (Fig 2).
 
