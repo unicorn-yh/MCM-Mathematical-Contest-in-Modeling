@@ -83,7 +83,7 @@ We propose a Historical Preservation Index (HPI) model that aims to evaluate and
 <p align="center">
  <img src="./assets/Historical Preservation Index Model.png" alt="Historical Preservation Index Model" width="600px"/>
 </p>
-<h4 align="center">Fig 2. Historical Preservation Index Model</h4>
+<h5 align="center">Fig 2. Historical Preservation Index Model</h5>
 
 
 
