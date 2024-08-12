@@ -10,19 +10,6 @@
 
 <br>
 
-### **Index:**
-
-1. [Overview](https://github.com/unicorn-yh/MCM-Mathematical-Contest-in-Modeling/tree/main#overview)
-2. [Develop a Property Insurance Model](https://github.com/unicorn-yh/MCM-Mathematical-Contest-in-Modeling/tree/main#develop-a-property-insurance-model)
-3. [Application of the Insurance Model](https://github.com/unicorn-yh/MCM-Mathematical-Contest-in-Modeling/tree/main#application-of-the-insurance-model)
-4. [Assess Real-Estate Building Decisions](https://github.com/unicorn-yh/MCM-Mathematical-Contest-in-Modeling/tree/main#assess-real-estate-building-decisions)
-5. [Develop a Presevation Model](https://github.com/unicorn-yh/MCM-Mathematical-Contest-in-Modeling/tree/main#develop-a-preservation-model)
-6. [Select a Historic Landmark](https://github.com/unicorn-yh/MCM-Mathematical-Contest-in-Modeling/tree/main#select-a-historic-landmark)
-7. [Apply Insurance and Preservation Models](https://github.com/unicorn-yh/MCM-Mathematical-Contest-in-Modeling/tree/main#apply-insurance-and-preservation-models)
-8. [Compose a Recommendation Letter](https://github.com/unicorn-yh/MCM-Mathematical-Contest-in-Modeling/tree/main#compose-a-recommendation-letter)
-
-<br>
-
 ## Overview
 
    #### **1. Main task**
@@ -64,7 +51,7 @@ The four basic principles founded by this UNEP FI (Principles for Sustainable In
 
 New York (United States) and Athens (Greece) were analyzed with the insurance model to serve as regional benchmarks. These cities were chosen because they currently incorporate sustainable insurance principles into their city property insurance plans. The proposed initiatives in the model were specifically aimed at improving each city’s overall SPII score. Initially, both cities scored well, with SPII scores of 352.18 for New York and 312.17 for Athens, indicating strong foundations in sustainable property insurance development.
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
     <img src="./assets/Sustainable Insurance Index Model.png" alt="Sustainable Insurance Index Model" width="600px">
     <p><em>Fig 1. Sustainable Insurance Index Model</em></p>
 </div>
