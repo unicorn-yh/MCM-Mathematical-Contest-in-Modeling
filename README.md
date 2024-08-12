@@ -51,10 +51,10 @@ The four basic principles founded by this UNEP FI (Principles for Sustainable In
 
 New York (United States) and Athens (Greece) were analyzed with the insurance model to serve as regional benchmarks. These cities were chosen because they currently incorporate sustainable insurance principles into their city property insurance plans. The proposed initiatives in the model were specifically aimed at improving each city’s overall SPII score. Initially, both cities scored well, with SPII scores of 352.18 for New York and 312.17 for Athens, indicating strong foundations in sustainable property insurance development.
 
-<p align="center">
+<div style="text-align: center;">
     <img src="./assets/Sustainable Insurance Index Model.png" alt="Sustainable Insurance Index Model" width="600px">
-    <em>Fig 1. Sustainable Insurance Index Model</em>
-</p>
+    <p><em>Fig 1. Sustainable Insurance Index Model</em></p>
+</div>
 
 
 
