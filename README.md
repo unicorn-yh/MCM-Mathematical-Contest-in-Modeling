@@ -56,7 +56,7 @@ New York (United States) and Athens (Greece) were analyzed with the insurance mo
 <p align="center">
  <img src="./assets/Sustainable Insurance Index Model.png" alt="Sustainable Insurance Index Model" width="600px"/>
 </p>
-<h4 align="center">Fig 1. Sustainable Insurance Index Model</h4>
+<h5 align="center">Fig 1. Sustainable Insurance Index Model</h5>
 
 
 
